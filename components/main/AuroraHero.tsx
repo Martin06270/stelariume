@@ -35,7 +35,7 @@ export const AuroraHero = () => {
       style={{
         backgroundImage,
       }}
-      className="relative grid min-h-screen place-content-center overflow-hidden bg-gray-950 px-4 py-24 text-gray-200"
+      className="relative grid min-h-screen place-content-center overflow-hidde px-4 py-24 text-gray-200"
     >
       <div className="relative z-10 flex flex-col items-center">
         <motion.button
