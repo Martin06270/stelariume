@@ -2,6 +2,7 @@ import Hero from "@/components/main/Hero";
 import Image from "next/image";
 import AuroraHero from "@/components/main/AuroraHero";
 import Example from "@/components/main/HorizontalScrollCarousel";
+import Footer from "@/components/main/Footer";
 
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
         <Hero />
         <Example/>
         <AuroraHero/>
+        <Footer/>
       </div>
       Stelariume
     </main>
